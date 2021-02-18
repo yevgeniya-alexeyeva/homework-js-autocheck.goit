@@ -1,0 +1,25 @@
+{
+  "name": "homework-js-autocheck.goit",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint /.src",
+    "lint:fix": "eslint /.src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevgeniya-alexeyeva/homework-js-autocheck.goit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevgeniya-alexeyeva/homework-js-autocheck.goit/issues"
+  },
+  "homepage": "https://github.com/yevgeniya-alexeyeva/homework-js-autocheck.goit#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb": "^18.2.1"
+  }
+}
